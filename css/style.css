@@ -69,6 +69,21 @@ h4 {
   font-size: 20px;
 }
 
+.collapsive {
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+}
+
+.content {
+	padding: 0 18px;
+  display: none;
+  overflow: hidden;
+}
+
 a {
   color: #0b0f28;
   -webkit-transition: 0.3s color;
